@@ -164,9 +164,13 @@ i{
 
     .location{
         display: flex;
-        /* flex-direction: column; */
     }
     .location p{
         width: 100%;
+    }
+
+    ul li{
+        list-style-type: none;
+        margin: 0 7px;
     }
 }
