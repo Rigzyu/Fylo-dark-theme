@@ -144,6 +144,10 @@ i{
     border-radius: 30px;
 }
 @media (max-width: 576px){
+    .section-1 h3{
+        font-size: 20px;
+        width: 80%;
+    }
     .card{
         margin-top: 30px;
     }
